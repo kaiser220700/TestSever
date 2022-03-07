@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120462894410",
+    "project_id": "testsever-781d4",
+    "storage_bucket": "testsever-781d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120462894410:android:1eb13189e167ebabcdcdb3",
+        "android_client_info": {
+          "package_name": "com.kaiser.testsever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120462894410-9v1d08m7elamfl3mrvpr6ifju7p3eul1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbR7IFNakL_TOBMMEuAilKwUk8e9xhqH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120462894410-9v1d08m7elamfl3mrvpr6ifju7p3eul1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
